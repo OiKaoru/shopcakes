@@ -1,0 +1,17 @@
+a.color {
+  color:grey;
+  font-size: 20px;
+}
+a {
+  text-decoration:none;
+}
+a:hover {
+   color: #555;
+ }
+ div.color{
+   background-color: lightgrey;
+ }
+ th.color {
+   color:#555;
+   font-size: 17px;
+ }
